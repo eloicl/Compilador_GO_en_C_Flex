@@ -1,3 +1,7 @@
+
+Compilador de lenguaje GO implementado en C mediante un analizador léxico y uno sintáctico utilizando doble buffer. Desarrollado en el contexto de la asignatura Compiladores e Intérpretes.
+
+
 Desde la carpeta con los archivos del código fuente y el fichero de entrada
 
 
